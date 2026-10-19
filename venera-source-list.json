@@ -32,11 +32,11 @@
   {
     "key": "copy_manga",
     "name": "拷贝漫画",
-    "version": "1.4.2",
+    "version": "1.4.3",
     "url": "https://cdn.jsdelivr.net/gh/venera-app/venera-configs@main/copy_manga.js"
   },
   {
-    "key": "copy_manga",
+    "key": "copy_manga_multi_accounts",
     "name": "拷贝漫画M",
     "version": "1.4.1",
     "url": "https://cdn.jsdelivr.net/gh/venera-app/venera-configs@main/copy_manga_multi_accounts.js"
